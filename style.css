@@ -26,6 +26,7 @@
 
 body {
   background: var(--bg-url) no-repeat top center/cover;
+  height: 100vh;
 }
 
 body * {
@@ -159,4 +160,14 @@ ul li a:hover {
   line-height: 24px;
   text-align: center;
   padding: 24px;
+}
+
+/*media queries*/
+@media (min-wight: 700px) {
+  :root {
+    --bg-url: url(./assets/bg-desktop.jpg);
+  }
+  .light {
+    --bg-url: url(./assets/bg-desktop-light.jpg);
+  }
 }
