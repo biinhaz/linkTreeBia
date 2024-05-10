@@ -1,14 +1,11 @@
-<h1 align="center"> DevLinks </h1>
+<h1 align="center">BiaLinks</h1>
 
 <p align="center">
-Meu primeiro projetoooooo S2<br/> chama nessa dev
+  Meu primeiro projeto! ❤️<br/>Chama nessa dev!
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-tecnologias">Tecnologias</a> &nbsp;|&nbsp; <a href="#-projeto">Projeto</a> &nbsp;|&nbsp; <a href="#-layout">Layout</a> &nbsp;|&nbsp; <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -18,7 +15,7 @@ Meu primeiro projetoooooo S2<br/> chama nessa dev
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto DevLinks" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -32,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O DevLinks é um agregador de links para usar como cartão de visitas online.
+O BiaLinks é um agregador de links para usar como cartão de visitas online.
 
 ## 🔖 Layout
 
@@ -44,4 +41,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito com ♥ by Bia :wave: [Me acompanhe nas redes sociais!](https://www.instagram.com/biazmiranda_/)
